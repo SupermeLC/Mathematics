@@ -4,7 +4,7 @@
 贡献者：
 - [Defjia](https://github.com/DefJia)
 - [ROGERDJQ](https://github.com/ROGERDJQ)
-- [Liu Chao](https://github.com/SupermeLC)
+- [SupermeLC](https://github.com/SupermeLC)
 
 # How to use
 
@@ -13,5 +13,11 @@ git add .
 git commit -m "XXXXXX"
 git pull
 git push
+```
+
+# Problem about “conflict”
+
+```bash
+git status
 ```
 
