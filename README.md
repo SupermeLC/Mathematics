@@ -5,3 +5,13 @@
 - [Defjia](https://github.com/DefJia)
 - [ROGERDJQ](https://github.com/ROGERDJQ)
 - [Liu Chao](https://github.com/SupermeLC)
+
+# How to use
+
+```bash
+git add .
+git commit -m "XXXXXX"
+git pull
+git push
+```
+
