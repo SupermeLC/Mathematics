@@ -1,4 +1,7 @@
 # Mathematics
 数学学习笔记
 
-贡献者：贾泽瑞，代俊奇，刘超
+贡献者：
+- [Defjia](https://github.com/DefJia)
+- [ROGERDJQ](https://github.com/ROGERDJQ)
+- [Liu Chao](https://github.com/SupermeLC)
