@@ -21,6 +21,3 @@ git push
 git status
 ```
 
-# 
-
- https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?utm_source=chrome-app-launcher-info-dialog 
